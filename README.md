@@ -1,4 +1,4 @@
-## Olá! Me chamo Gabriel Demarqui
+## Olá! Eu me Chamo Gabriel Demarqui
 
 ◾Escolhi aprender Front-End.</br>
 ◾Estou estudando HTML, CSS, JavaScript.<br/>
